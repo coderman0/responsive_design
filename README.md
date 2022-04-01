@@ -1,25 +1,16 @@
-# GetX To Do Lis 🖥📱
+# chat_app
 
+A new Flutter project.
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/799px-Google-flutter-logo.png?20200223155044)
+## Getting Started
 
-    
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-- It aims to provide you with widgets that make it easy to build different UI's along two different Axis. Orientation x ScreenType. This means you can have a separate layout for Mobile - Landscape, Mobile - Portrait, Tablet - Landscape and Tablet-Portrait.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-  
-## Support
-
-
-For support visit https://rdvan.codes or join our Discord server.
-
-  
-## Screenshots
-
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/4xpx7ov.png) 
-
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/eehlo9t.png) 
-
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ju8xb84.png) 
-  
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
